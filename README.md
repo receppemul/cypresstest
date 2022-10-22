@@ -1,4 +1,4 @@
-#First test with cypress
+## Steps
 
 1-Install cypress with npm 
 -npm install cypress --save-dev
